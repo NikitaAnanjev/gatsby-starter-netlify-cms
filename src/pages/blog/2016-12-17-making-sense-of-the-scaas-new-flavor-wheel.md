@@ -8,7 +8,7 @@ featuredpost: false
 featuredimage: /img/bg1.jpeg
 tags:
   - flavor
-  - tasting
+  - tasting.bop
 ---
 ![flavor wheel](/img/bg1.jpeg)
 
