@@ -1,4 +1,4 @@
-// For more info, check https://www.netlify.com/docs/functions/#javascript-lambda-functions
+  // For more info, check https://www.netlify.com/docs/functions/#javascript-lambda-functions
 module.exports.handler = async function(event, context) {
   console.log("queryStringParameters", event.queryStringParameters)
   return {
